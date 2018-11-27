@@ -32,19 +32,16 @@ EXCEPTION_MESSAGE = "Sorry. I cannot help you with that."
 # =========================================================================================================================================
 
 data = [
-  'A year on Mercury is just 88 days long.',
-  'Despite being farther from the Sun, Venus experiences higher temperatures than Mercury.',
-  'Venus rotates counter-clockwise, possibly because of a collision in the past with an asteroid.',
-  'On Mars, the Sun appears about half the size as it does on Earth.',
-  'Earth is the only planet not named after a god.',
-  'Jupiter has the shortest day of all the planets.',
-  'The Milky Way galaxy will collide with the Andromeda Galaxy in about 5 billion years.',
-  'The Sun contains 99.86% of the mass in the Solar System.',
-  'The Sun is an almost perfect sphere.',
-  'A total solar eclipse can happen once every 1 to 2 years. This makes them a rare event.',
-  'Saturn radiates two and a half times more energy into space than it receives from the sun.',
-  'The temperature inside the Sun can reach 15 million degrees Celsius.',
-  'The Moon is moving approximately 3.8 cm away from our planet every year.',
+  'LEGO is 82 years old.',
+  'A LEGO brick from 1958 would still interlock with a LEGO brick made today.',
+  'The name has a very special meaning.',
+  'You can combine six of the eight-studded LEGO bricks in 915,103,765 ways.',
+  'The nation of minifigures would hold the record for the world’s largest population (if they were humans, of course).',
+  'Someone built a real house made entirely of LEGO.',
+  'LEGO Duplo bricks (the large ones for little kids) can connect with regular LEGO bricks.',
+  'The world’s largest LEGO tower contains over 500,000 bricks.',
+  'The largest commercially produced LEGO set is the Taj Majal, with over 5,900 pieces.',
+  'A Braille printer was created using a LEGO set.',
 ]
 
 # =========================================================================================================================================
